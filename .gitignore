@@ -1,0 +1,6 @@
+# IDE
+.idea/
+
+# Resources
+vendor/
+/.phpunit.result.cache
