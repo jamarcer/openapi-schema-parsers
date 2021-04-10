@@ -11,7 +11,7 @@
     </include>
   </coverage>
   <testsuites>
-    <testsuite name="Symfony APM Test Suite">
+    <testsuite name="OpenAPI / AsyncApi Test Suite">
       <directory>./tests/</directory>
     </testsuite>
   </testsuites>

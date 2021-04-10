@@ -28,11 +28,11 @@
         "justinrainbow/json-schema": "^5.2",
         "behat/behat": "^3.5",
         "jamarcer/ddd-framework": "dev-main",
-        "beberlei/assert": "^3.2",
         "friends-of-behat/symfony-extension": "^2.0",
         "friends-of-behat/mink": "^1.8",
         "friends-of-behat/mink-extension": "^2.4",
-        "friends-of-behat/mink-browserkit-driver": "^1.4"
+        "friends-of-behat/mink-browserkit-driver": "^1.4",
+        "beberlei/assert": "^3.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
